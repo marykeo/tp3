@@ -11,12 +11,12 @@ h4 {
 
 li, p {
   font-family: 'Open Sans', sans-serif;
+  color: #505050;
 }
 
 ul ul {
   list-style-type: circle;
 }
-
 
 #directions li:nth-child(2) {
   color: pink;
